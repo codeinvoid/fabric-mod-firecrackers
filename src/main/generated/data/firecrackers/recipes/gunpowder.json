@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "firecrackers:gunpowder_chip"
+    },
+    {
+      "item": "firecrackers:gunpowder_chip"
+    },
+    {
+      "item": "firecrackers:gunpowder_chip"
+    },
+    {
+      "item": "firecrackers:gunpowder_chip"
+    },
+    {
+      "item": "firecrackers:gunpowder_chip"
+    },
+    {
+      "item": "firecrackers:gunpowder_chip"
+    },
+    {
+      "item": "firecrackers:gunpowder_chip"
+    },
+    {
+      "item": "firecrackers:gunpowder_chip"
+    },
+    {
+      "item": "firecrackers:gunpowder_chip"
+    }
+  ],
+  "result": {
+    "item": "minecraft:gunpowder"
+  }
+}
